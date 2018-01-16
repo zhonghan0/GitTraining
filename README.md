@@ -1,1 +1,2 @@
-# GitTraining 1234
+# GitTraining
+update 1.0
